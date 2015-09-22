@@ -1,0 +1,9 @@
+{
+  "name": "base642upload",
+  "version": "0.0.1",
+  "dependencies": {
+    "buffer-type": "0.0.2",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {}
+}
